@@ -1,6 +1,3 @@
-Certainly! Below is an extensive GitHub README file for a content-based anime recommendation system named "AnimeNest", which utilizes TF-IDF (Term Frequency-Inverse Document Frequency) technique and cosine similarity for recommendations:
-
----
 
 # AnimeNest: Content-Based Anime Recommendation System
 
